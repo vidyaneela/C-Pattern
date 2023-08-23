@@ -21,8 +21,6 @@ Developed By : Vidya Neela M
 Reg No : 212221230120
 ```
 ```
-DEVELOPED BY : Meena S
-REGESTER NUMBER : 212221240028
 using System;
 namespace PascalTriangleDemo
 {
